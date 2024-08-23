@@ -52,7 +52,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C
+* Serge Danho
 
 ## License
 
